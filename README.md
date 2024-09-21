@@ -35,3 +35,19 @@ Before running this application, ensure you have the following installed:
    ```bash
    git clone https://github.com/prashantagrawal2107/healthcare-services-app.git
 
+2. **Navigate to Project Directory** :
+
+   ```bash
+   cd healthcare-services-app
+
+3. **Install Dependencies** :
+
+   ```bash
+   npm install
+
+### Running the Application
+
+1. Start the Development Server : 
+
+    ```bash
+    npm start
